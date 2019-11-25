@@ -1,6 +1,6 @@
 # MinSchoolSystem
 Minimized school system for student grades  
-##Student
+# Student
 - login
 - add, edit, delete profile photo
 - add, edit, delete name
@@ -8,7 +8,7 @@ Minimized school system for student grades
 - add, edit, delete passowrd
 - view grades
 
-##Teacher 
+# Teacher 
 - login
 - add, edit, delete courses
 - add, edit, delete student grades 
